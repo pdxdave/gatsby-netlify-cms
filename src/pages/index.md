@@ -5,17 +5,13 @@ image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: asdf
-  description: |-
-    
-    asdfaasdf
-description: asdfasdf
+  title: A
+  description: "\n"
+description: B
 intro:
   blurbs: []
-  heading: asdf
-  description: |-
-    
-    asdfasdf
+  heading: C
+  description: C
 main:
   heading: asdfasdf
   description: >
