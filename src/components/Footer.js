@@ -75,7 +75,7 @@ const Footer = class extends React.Component {
                 </section>
               </div>
               <div className="column is-4 social">
-                <a title="linkedin" href="https://facebook.com">
+                <a title="linkedin" href="https://www.linkedin.com/in/dave-martinson-637b80191/">
                   <img
                     src={linkedin}
                     alt="LinkedIn"
