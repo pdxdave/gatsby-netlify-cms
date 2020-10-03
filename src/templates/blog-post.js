@@ -18,7 +18,7 @@ export const BlogPostTemplate = ({
 
   return (
     <section className="section">
-      {helmet || ''}
+      {/* {helmet || ''} */}
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
@@ -50,7 +50,7 @@ BlogPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
   description: PropTypes.string,
-  // title: PropTypes.string,
+  title: PropTypes.string,
   helmet: PropTypes.object,
 }
 
