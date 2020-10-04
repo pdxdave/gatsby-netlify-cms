@@ -8,7 +8,8 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
 featuredpost: true
 featuredimage: /img/parktoday.jpg
 tags:
-  - Javascript ReactJs
+  - Javascript
+  - ReactJs
 ---
 ![trees](/img/parktoday.jpg "trees")
 
