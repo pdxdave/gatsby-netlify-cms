@@ -6,7 +6,9 @@ description: asdfaslfl;adfs ljasldfasfllasd;fj;alsdf;lasdf
 featuredpost: true
 featuredimage: /img/ham_broccoli.jpg
 tags:
-  - Javascript HTML CSS
+  - Javascript
+  - HTML
+  - CSS
 ---
 Suspendisse aliquet ipsum sed dolor fermentum convallis. Nunc vehicula, mi ornare tincidunt vehicula, ex mi consectetur massa, sit amet imperdiet sem nisi ut elit. Etiam vitae orci non neque iaculis tempor. Etiam ac neque egestas, consequat diam quis, laoreet risus. Vivamus sed dui ac metus condimentum sollicitudin non mollis dui. Pellentesque id sem in justo tincidunt luctus. Aliquam vulputate dui lobortis odio consequat efficitur. Donec risus ipsum, ornare vel justo in, facilisis vehicula arcu. Suspendisse at risus massa. Sed ac pulvinar quam, a bibendum lacus. Morbi iaculis elit tortor, eu iaculis enim ullamcorper ut. Etiam mattis nisl eu suscipit efficitur. Vestibulum elementum risus et augue fringilla venenatis. Vestibulum quis nibh turpis. Integer quam leo, ultricies vitae pretium at, convallis vitae libero.
 
