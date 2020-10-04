@@ -6,7 +6,7 @@ description: Curabitur tempor tortor vel dignissim faucibus. Integer rhoncus
   augue pharetra leo viverra malesuada. Nam ex sem, sodales non bibendum vel,
   semper ut mi. Vestibulum euismod sapien id tortor dapibus, ac consectetur
   purus aliquet.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/ham_broccoli.jpg
 tags:
   - ReactJs
