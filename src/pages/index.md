@@ -1,13 +1,17 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: a
 image: /img/banner.jpg
-heading: Great coffee with a conscience
+heading: Musings of a software developer
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: A
-  description: "\n"
-description: B
+  title: a
+  description: a
+description: "Hello, my name is David Martinson, a software developer located in
+  the Pacific Northwest.  I invite you to read my posts covering a variety of
+  topics (e.g., software development, fitness, recruiting and other topics that
+  pique my interest). Feel free to reach out and contact me.  I'm always open to
+  discussing software development opportunities.  "
 intro:
   blurbs: []
   heading: C
